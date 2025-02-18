@@ -1,5 +1,5 @@
 
-# Synthetic data generation
+# Synthetic data generation via faker library
 ![image](https://github.com/user-attachments/assets/7c9a71df-e1f9-48ad-aa3b-556d2879a1bb)
 
 # Fetched Data via API 
